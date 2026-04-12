@@ -8,4 +8,3 @@ print("Fullname:", fullname, "->", type(fullname))
 print("Age:", age, "->", type(age))
 print("Height in meters:", height, "->", type(height))
 print("Currently working?:", is_working, "->", type(is_working))
-print 
